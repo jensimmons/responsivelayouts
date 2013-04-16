@@ -15,10 +15,10 @@ a {
 	text-shadow:0 1px 1px #8D8E90;
 	h1 {
 		font:bold 50px/1 'PT Sans Narrow', sans-serif;
-		margin: 0;
+		margin: 0; // added by Jen
 	}
   h2 {
-    margin: 0;
+    margin: 0; // added by Jen
   }
 	a {
 		color:#4B86C2;
@@ -275,6 +275,7 @@ a {
 	// Shout
 	&.shout {
 		background-image:none;
+		background-color: #3861A2; // added by Jen
 		h2 {
 			position:absolute;
 			top:50%;
@@ -284,6 +285,7 @@ a {
 			line-height:1;
 			font-size:150px;
 			@include transform(translateY(-50%));
+			color: #fff; // added by Jen
 			}
 		}
 	// Place
