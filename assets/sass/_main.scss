@@ -1,22 +1,3 @@
-
-// Import Compass: http://compass-style.org
-@import "compass";
-
-// Import additional mixins
-@import "mixins";
-
-// Reset
-@import "normalize";
-* {
-  @include box-sizing(border-box);
-}
-
-// Shower CSS
-@import 'defaults';
-@import 'fonts';
-
-
-
 body {
 	counter-reset:slide;
 	font:25px/2 'PT Sans', sans-serif;

@@ -1,0 +1,40 @@
+#Cover { 
+	h2 {
+		margin: 40px 0;
+		color: #1450ae;
+		text-align:center;
+		font-size: 3em;
+		text-shadow: 1px 2px 6px rgba(0, 0, 0, 0.5);
+	}
+	p {
+		margin: 0;
+		text-align: center;
+		color: #1450ae;
+		font-size: 2em;
+		line-height: 1.3em;
+		font: bold 50px/1 "PT Sans Narrow",sans-serif;
+		text-shadow: 1px 2px 6px rgba(0, 0, 0, 0.5);
+	}
+	a {
+		border-bottom: none;
+		color: #1450ae;
+	}
+}
+
+
+#Picture {
+	h2 {
+		color:#FFF;
+	}
+}
+
+
+#SeeMore {
+	h2 {
+		font-size:100px
+	}	
+	img {
+		width:0.72em;
+		height:0.72em;
+	}
+}

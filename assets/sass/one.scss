@@ -1,0 +1,104 @@
+// Import Compass: http://compass-style.org
+@import "compass";
+
+// Import additional mixins
+@import "mixins";
+
+// Reset
+@import "normalize";
+* {
+  @include box-sizing(border-box);
+}
+
+
+h1 {
+  margin: 0;
+  font-size: 21px;
+}
+.header {
+  width: 100%;
+  height: 40px;
+  background: #DABD30;
+  padding: 0 0.3em 0.3em;
+}
+.main {
+  float: left;
+  width: 60%;
+  height: 150px;
+  background: #91bfff;
+}
+.sidebar1,
+.sidebar2 {
+  float: left;
+  width: 20%;
+  height: 150px;
+}
+.sidebar1 {
+  background: #22af6b;
+}
+.sidebar2 {
+  background: #9e22b0;
+}
+.footer {
+  width: 100%;
+  height: 40px;
+  clear: both;
+  background: #BA7E51;
+}
+
+.fixed {
+  width: 400px;
+  margin: 50px;
+  .header {
+    width: 100%;
+  }
+  .main {
+    width: 60%;
+  }
+  .sidebar1,
+  .sidebar2 {
+    width: 20%;
+  }
+  .footer {
+    width: 100%;
+  }
+}
+
+.fluid {
+  width: 50%;
+  margin: 50px;
+}
+
+.responsive101 {
+  width: 50%;
+  margin: 50px;
+  .main {
+    width: 100%;
+    float: none;
+  }
+  .sidebar1,
+  .sidebar2 {
+    width: 100%;
+    float: none;
+  }
+  @media screen and (min-width: 225px) { 
+    .sidebar1,
+    .sidebar2 {
+      width: 50%;
+      float: left;
+    }    
+  }
+  @media screen and (min-width: 550px) { 
+    .main {
+      width: 60%;
+      float: left;
+    }
+    .sidebar1,
+    .sidebar2 {
+      width: 20%;
+    }
+  }
+  @media screen and (min-width: 1000px) { 
+    width: 500px;
+  }
+}
