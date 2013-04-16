@@ -525,13 +525,6 @@ table {
   border-spacing: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/screen\.scss}line{font-family:\0000310}}
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
 @font-face {
   font-family: 'PT Sans';
   src: url(../fonts/PTSans.woff) format("woff");
@@ -1185,10 +1178,10 @@ a {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\000032}}
 #Cover h2 {
-  margin: 40px 0;
+  margin: 70px 0;
   color: #1450ae;
   text-align: center;
-  font-size: 3em;
+  font-size: 4em;
   text-shadow: 1px 2px 6px rgba(0, 0, 0, 0.5);
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\000039}}
@@ -1207,16 +1200,22 @@ a {
   color: #1450ae;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000325}}
+#Origin h2 {
+  color: #fff;
+  text-shadow: 1px 2px 6px rgba(0, 0, 0, 0.5);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000332}}
 #Picture h2 {
   color: #FFF;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000339}}
 #SeeMore h2 {
   font-size: 100px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000342}}
 #SeeMore img {
   width: 0.72em;
   height: 0.72em;
