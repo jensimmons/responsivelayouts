@@ -1,0 +1,21 @@
+// Import Compass: http://compass-style.org
+@import "compass";
+
+// Import additional mixins
+@import "mixins";
+
+// Reset
+//@import "normalize";
+* {
+  @include box-sizing(border-box);
+}
+html {
+  font-size: 16px;
+}
+body {
+  width: 90%;
+  margin: 2em auto;
+}
+img {
+  width: 100%;
+}

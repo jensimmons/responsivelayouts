@@ -5,7 +5,7 @@
 @import "mixins";
 
 // Reset
-@import "normalize";
+//@import "normalize";
 * {
   @include box-sizing(border-box);
 }
@@ -13,11 +13,10 @@ html {
   font-size: 16px;
 }
 body {
-  width: 80%;
-  margin: 20px auto 40px;
-  font-size: 180%;
-  line-height: 1.6em;
+  width: 90%;
+  margin: 2em auto;
 }
-ul {
-  list-style: bullet;
+img {
+  width: 100%;
 }
+
