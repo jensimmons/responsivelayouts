@@ -660,7 +660,7 @@ a {
 .slide:after {
   position: absolute;
   left: 120px;
-  bottom: 81px;
+  bottom: 41px;
   color: #CCC;
   counter-increment: slide;
   content: counter(slide, decimal-leading-zero);
@@ -897,11 +897,98 @@ a {
   transform: translateY(-50%);
   color: #fff;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003292}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003290}}
+.slide.shout a {
+  color: #fff;
+  border: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003295}}
+.slide.shout2 {
+  background-image: none;
+  background-color: #3861A2;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003298}}
+.slide.shout2 h2 {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  line-height: 1;
+  font-size: 100px;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+  color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003309}}
+.slide.shout2 a {
+  color: #fff;
+  border: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003316}}
+.slide.mainpoints {
+  background-image: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003319}}
+.slide.mainpoints h2 {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  line-height: 1;
+  font-size: 100px;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003332}}
+.slide.demolink {
+  background-image: none;
+  background-color: #333;
+  color: #C2EE57;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003336}}
+.slide.demolink h2 {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  line-height: 1;
+  font-size: 100px;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003345}}
+.slide.demolink h2 a {
+  color: #C2EE57;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003351}}
+.slide.iframeslide {
+  background-image: none;
+  background-color: #333;
+  color: #C2EE57;
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003356}}
+.slide.iframeslide iframe {
+  width: 100%;
+  height: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003362}}
 .slide .place {
   position: absolute;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003294}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003364}}
 .slide .place.t, .slide .place.m, .slide .place.b {
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -910,15 +997,15 @@ a {
   -o-transform: translateX(-50%);
   transform: translateX(-50%);
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003298}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003368}}
 .slide .place.t {
   top: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003299}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003369}}
 .slide .place.b {
   bottom: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003300}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003370}}
 .slide .place.l, .slide .place.m, .slide .place.r {
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -927,11 +1014,11 @@ a {
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003304}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003374}}
 .slide .place.l {
   left: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003305}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003375}}
 .slide .place.m {
   -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
@@ -939,12 +1026,12 @@ a {
   -o-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003306}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003376}}
 .slide .place.r {
   right: 0;
   left: auto;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003380}}
 .slide .place.t.l, .slide .place.t.r, .slide .place.b.r, .slide .place.b.l {
   -webkit-transform: none;
   -moz-transform: none;
@@ -952,15 +1039,15 @@ a {
   -o-transform: none;
   transform: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003383}}
 .slide .place.t.l, .slide .place.t.r {
   top: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003384}}
 .slide .place.b.r, .slide .place.b.l {
   top: auto;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003387}}
 .slide footer {
   position: absolute;
   left: 0;
@@ -976,25 +1063,25 @@ a {
   -o-transition: bottom 0.3s;
   transition: bottom 0.3s;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003399}}
 .slide:hover footer {
   bottom: 0;
 }
 
 @media screen {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003407}}
   .list {
     position: absolute;
     clip: rect(0, auto, auto, 0);
     padding: 80px 0 40px 100px;
     background: #585a5e url(../images/linen.png);
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003348}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003418}}
   .list .caption,
   .list .badge {
     display: block;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003422}}
   .list .slide {
     float: left;
     margin: 0 -412px -220px 0;
@@ -1009,7 +1096,7 @@ a {
     -o-transform: scale(0.5);
     transform: scale(0.5);
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003362}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003432}}
   .list .slide:before {
     position: absolute;
     top: 0;
@@ -1031,7 +1118,7 @@ a {
     -o-transform: scale(2);
     transform: scale(2);
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003453}}
   .list .slide:after {
     bottom: -80px;
     left: 120px;
@@ -1049,20 +1136,20 @@ a {
     -o-transform: scale(2);
     transform: scale(2);
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003397}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003467}}
   .list .slide:hover:before {
     box-shadow: 0 0 0 10px rgba(42, 43, 45, 0.3), 0 20px 50px rgba(42, 43, 45, 0.6);
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003404}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003474}}
   .list .slide:target:before {
     box-shadow: 0 0 0 1px #305f8d, 0 0 0 10px #3c7cbd, 0 20px 50px rgba(42, 43, 45, 0.6);
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003416}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003486}}
   .list .slide:target:after {
     text-shadow: 0 1px 1px rgba(42, 43, 45, 0.6);
     color: #4B86C2;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003423}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003493}}
   .list .slide > div:before {
     position: absolute;
     top: 0;
@@ -1072,16 +1159,16 @@ a {
     z-index: 2;
     content: '';
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003436}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003506}}
   .list .slide.cover:after, .list .slide.shout:after {
     content: counter(slide, decimal-leading-zero);
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003441}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003511}}
   .list .slide footer {
     display: block;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003447}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003517}}
   .full {
     position: absolute;
     top: 50%;
@@ -1092,33 +1179,33 @@ a {
     height: 640px;
     background: #000;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003457}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003527}}
   .full .slide {
     position: absolute;
     top: 0;
     left: 0;
     margin-left: 150%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003463}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003533}}
   .full .slide .next {
     visibility: hidden;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003465}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003535}}
   .full .slide .next.active {
     visibility: visible;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003470}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003540}}
   .full .slide:target {
     margin: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003475}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003545}}
   .full .progress {
     position: absolute;
     right: 118px;
     bottom: 40px;
     left: 118px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003480}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003550}}
   .full .progress div {
     width: 0;
     height: 10px;
@@ -1132,14 +1219,14 @@ a {
   }
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-resolution: 192dpi) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003407}}
   .list {
     background-image: url(../images/linen@2x.png);
     background-size: 256px;
   }
 }
 @media screen and (max-width: 1324px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003422}}
   .list .slide {
     margin: 0 -688px -400px 0;
     -webkit-transform: scale(0.25);
@@ -1150,7 +1237,7 @@ a {
   }
 }
 @media screen and (max-width: 1324px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003362}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003432}}
   .list .slide:before {
     width: 256px;
     height: 160px;
@@ -1162,7 +1249,7 @@ a {
   }
 }
 @media screen and (max-width: 1324px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003453}}
   .list .slide:after {
     bottom: -104px;
     -webkit-transform: scale(4);
@@ -1173,7 +1260,7 @@ a {
   }
 }
 @media screen and (max-width: 1324px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003404}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_main\.scss}line{font-family:\00003474}}
   .list .slide:target:before {
     box-shadow: 0 0 0 1px #305f8d, 0 0 0 10px #3c7cbd, 0 20px 50px rgba(42, 43, 45, 0.6);
   }
@@ -1226,4 +1313,18 @@ a {
 #SeeMore img {
   width: 0.72em;
   height: 0.72em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000349}}
+.borderbox code {
+  font-size: 185%;
+  margin-top: 4.5em;
+  margin-bottom: 2em;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000355}}
+.borderbox a {
+  font-size: 50%;
+  margin-top: 10em;
+  margin-left: 10em;
 }

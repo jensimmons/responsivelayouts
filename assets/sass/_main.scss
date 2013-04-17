@@ -79,7 +79,7 @@ a {
 	&:after {
 		position:absolute;
 		left:120px;
-		bottom:81px;
+		bottom:41px;
 		color:#CCC;
 		counter-increment:slide;
 		content:counter(slide, decimal-leading-zero);
@@ -287,7 +287,77 @@ a {
 			@include transform(translateY(-50%));
 			color: #fff; // added by Jen
 			}
+		a {
+			color: #fff; 
+			border: none;
 		}
+	}
+	&.shout2 {
+		background-image:none;
+		background-color: #3861A2; // added by Jen
+		h2 {
+			position:absolute;
+			top:50%;
+			left:0;
+			width:100%;
+			text-align:center;
+			line-height:1;
+			font-size: 100px;
+			@include transform(translateY(-50%));
+			color: #fff; // added by Jen
+		}
+		a {
+			color: #fff; 
+			border: none;
+		}
+
+	}
+	// Main Points
+	&.mainpoints {  // added by Jen
+		background-image:none;
+//		background-color: #cbdfff;
+		h2 {
+			position:absolute;
+			top:50%;
+			left:0;
+			width:100%;
+			text-align:center;
+			line-height:1;
+			font-size:100px;
+			@include transform(translateY(-50%));
+//			color: #fff; // added by Jen
+			}
+		}
+	// Demo Link
+	&.demolink {  // added by Jen
+		background-image:none;
+		background-color: #333;
+		color: #C2EE57;
+		h2 {
+			position:absolute;
+			top:50%;
+			left:0;
+			width:100%;
+			text-align:center;
+			line-height:1;
+			font-size:100px;
+			@include transform(translateY(-50%));
+			a {
+			 color: #C2EE57; 
+		  }
+		}
+  }
+	// Slides with iFrame
+	&.iframeslide {  // added by Jen
+		background-image: none;
+		background-color: #333;
+		color: #C2EE57;
+		padding: 0;
+		iframe {
+  		width: 100%;
+  		height: 100%;
+		}
+  }  
 	// Place
 	.place {
 		position:absolute;
