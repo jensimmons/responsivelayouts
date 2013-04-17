@@ -174,6 +174,9 @@ a {
 			margin:0 0 0 2em;
 			}
 		}
+	ul {
+		list-style: none;
+	}
 	ul > li:before {
 		content:'\2022\00A0\00A0';
 		}
