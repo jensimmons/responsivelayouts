@@ -14,6 +14,17 @@
 .slide pre code {
   line-height: 40px;
 }
+.image-slide a.image-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: none;
+  color: #fff;
+  text-indent: -999px;
+  width: 1024px;
+  height: 640px;
+}
+
 
 #Cover { 
 	h2 {
