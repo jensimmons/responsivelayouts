@@ -1,6 +1,9 @@
 .bigger-text {
 	font-size: 120%;
 }
+.even-bigger-text {
+	font-size: 170%;
+}
 .slide h2.bigger-text {
 	font-size: 200px;
 }
@@ -56,6 +59,20 @@
 	}
 }
 
+.shout-list {
+  ul {
+    color: #fff; 
+    text-align: center; 
+    list-style: none; 
+    font-size: 250%; 
+    line-height: 1.5em; 
+    margin-top: 1.1em;
+    padding-left: 124px;
+  }
+  ul > li:before {
+    content: none;
+  }
+}
 .borderbox {
   code {
     font-size: 185%;

@@ -1,20 +1,17 @@
-// Import Compass: http://compass-style.org
-@import "compass";
-
-// Import additional mixins
-@import "mixins";
-
-// Reset
-/* Normalize is loaded, and then this */
+/* Normalize is loaded first, http://necolas.github.io/normalize.css
+   Followed by this CSS */
+   
 * {
-  @include box-sizing(border-box);
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
+
 html {
   font-size: 16px;
   line-height: 1.4em;
   background: #194274;
 }
-
 
 /* ---------- Layout ---------- */
 
@@ -24,27 +21,35 @@ footer small {
   width: 90%;
   margin: 0 auto;
 }
+
 header {
   padding: 1em 5% 0.8em;
 }
+
 article {
   padding-top: 2em;
   padding-bottom: 2em;
 }
+
 footer {
   padding: 1em 5%;
 }
+
 img {
   width: 100%;
 }
+
 dl {
-  @include clearfix;
+  overflow: hidden;
+  *zoom: 1;
 }
+
 dt {
   float: left;
   margin-right: 1em;
   clear: both;
 }
+
 dd {
   float: left;
 }
@@ -53,32 +58,37 @@ dd {
 
 header {
   background: #9d4911;
-  text-align: center; 
+  text-align: center;
   color: #fff;
 }
+
 div[role=main] {
   background: #fff;
-  a {
-    text-decoration: none;
-    color: #9d4911;
-  }
 }
+
+div[role=main] a {
+  text-decoration: none;
+  color: #9d4911;
+}
+
 footer {
   text-align: center;
-  a {
-    color: #fff;
-  }
 }
+
+footer a {
+  color: #fff;
+}
+
 header h1 {
   font-size: 1.5em;
   line-height: 1.2em;
 }
+
 p {
   font-family: georgia;
   line-height: 1.4em;
 }
+
 dl {
-  font-family: georgia;  
+  font-family: georgia;
 }
-
-

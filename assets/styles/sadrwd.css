@@ -525,25 +525,25 @@ table {
   border-spacing: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\000039}}
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000313}}
 body {
   margin-bottom: 500px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000316}}
 h1 {
   margin: 0;
   font-size: 21px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000320}}
 .header {
   width: 100%;
   height: 75px;
@@ -553,7 +553,7 @@ h1 {
   border-bottom: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000328}}
 .main {
   float: left;
   width: 60%;
@@ -562,7 +562,7 @@ h1 {
   border: 1px solid #000;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000336}}
 .sidebar1,
 .sidebar2 {
   float: left;
@@ -571,17 +571,17 @@ h1 {
   border: 1px solid #000;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000342}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000342}}
 .sidebar1 {
   background: #22af6b;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000345}}
 .sidebar2 {
   background: #9e22b0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000348}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000348}}
 .footer {
   width: 100%;
   height: 75px;
@@ -591,73 +591,87 @@ h1 {
   border-top: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000357}}
 .fixed {
   width: 400px;
   margin: 50px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000360}}
 .fixed .header {
   width: 100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000363}}
 .fixed .main {
   width: 60%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000367}}
 .fixed .sidebar1,
 .fixed .sidebar2 {
   width: 20%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000370}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000370}}
 .fixed .footer {
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000375}}
 .fluid {
   width: 50%;
   margin: 50px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000380}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000380}}
 .responsive101 {
   width: 50%;
   margin: 50px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000383}}
 .responsive101 .main {
   width: 100%;
   float: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000388}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000388}}
 .responsive101 .sidebar1,
 .responsive101 .sidebar2 {
   width: 100%;
   float: none;
 }
-@media screen and (min-width: 225px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000394}}
+@media screen and (min-width: 250px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000394}}
   .responsive101 .sidebar1,
   .responsive101 .sidebar2 {
     width: 50%;
     float: left;
   }
 }
-@media screen and (min-width: 550px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\00003100}}
+@media screen and (min-width: 500px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\00003100}}
   .responsive101 .main {
     width: 60%;
     float: left;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\00003105}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\00003105}}
+  .responsive101 .sidebar1,
+  .responsive101 .sidebar2 {
+    width: 40%;
+    height: 100px;
+  }
+}
+@media screen and (min-width: 750px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\00003111}}
+  .responsive101 .main {
+    width: 60%;
+    float: left;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\00003116}}
   .responsive101 .sidebar1,
   .responsive101 .sidebar2 {
     width: 20%;
+    height: 200px;
   }
 }
 @media screen and (min-width: 1000px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/one\.scss}line{font-family:\0000380}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/badrwd\.scss}line{font-family:\0000380}}
   .responsive101 {
     width: 500px;
   }
