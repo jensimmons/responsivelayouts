@@ -1296,7 +1296,12 @@ a {
   line-height: 1.2em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000314}}
+.slide pre code {
+  line-height: 40px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000319}}
 #Cover h2 {
   margin: 70px 0;
   color: #1450ae;
@@ -1304,7 +1309,7 @@ a {
   font-size: 4em;
   text-shadow: 1px 2px 6px rgba(0, 0, 0, 0.5);
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000326}}
 #Cover p {
   margin: 0;
   text-align: center;
@@ -1314,34 +1319,34 @@ a {
   font: bold 50px/1 "PT Sans Narrow", sans-serif;
   text-shadow: 1px 2px 6px rgba(0, 0, 0, 0.5);
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000335}}
 #Cover a {
   border-bottom: none;
   color: #1450ae;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000342}}
 #Origin h2 {
   color: #fff;
   text-shadow: 1px 2px 6px rgba(0, 0, 0, 0.5);
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000349}}
 #Picture h2 {
   color: #FFF;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000356}}
 #SeeMore h2 {
   font-size: 100px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000356}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000359}}
 #SeeMore img {
   width: 0.72em;
   height: 0.72em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000366}}
 .shout-list ul {
   color: #fff;
   text-align: center;
@@ -1351,19 +1356,19 @@ a {
   margin-top: 1.1em;
   padding-left: 124px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000372}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000375}}
 .shout-list ul > li:before {
   content: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000380}}
 .borderbox code {
   font-size: 185%;
   margin-top: 4.5em;
   margin-bottom: 2em;
   text-align: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/_overrides\.scss}line{font-family:\0000386}}
 .borderbox a {
   font-size: 50%;
   margin-top: 10em;

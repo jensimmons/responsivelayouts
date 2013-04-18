@@ -29,6 +29,8 @@ header {
 article {
   padding-top: 2em;
   padding-bottom: 2em;
+  overflow: hidden;
+  *zoom: 1;
 }
 
 footer {
@@ -53,6 +55,7 @@ dt {
 dd {
   float: left;
 }
+
 
 /* ---------- Visual Styling ---------- */
 

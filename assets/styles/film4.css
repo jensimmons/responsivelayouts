@@ -13,7 +13,7 @@ html {
   background: #194274;
 }
 
-/* ---------- Layout ---------- */
+/* ---------- Layout (All the Same as v3)---------- */
 
 header h1,
 article,
@@ -29,6 +29,8 @@ header {
 article {
   padding-top: 2em;
   padding-bottom: 2em;
+  overflow: hidden;
+  *zoom: 1;
 }
 
 footer {
@@ -54,7 +56,35 @@ dd {
   float: left;
 }
 
-/* ---------- Visual Styling ---------- */
+
+/* ---------- The Part I Added for v4 ---------- */
+
+@media (min-width: 40em) {
+  .main-content {
+    width: 70%;
+    float: left;
+  }
+  dl {
+    float: right;
+    width: 20%;
+    background: #333;
+    color: #fff;
+    padding: 1em;
+    font: 'Trebuchet MS', Helvetica;
+  }
+  dt {
+    float: none;
+    margin-right: 0;
+    display: inline;
+  }
+  dd {
+    float: none;
+    margin-left: 0;
+  }
+}
+
+
+/* ---------- Visual Styling (All the Same as v3) ---------- */
 
 header {
   background: #9d4911;

@@ -5,7 +5,9 @@
 @import "mixins";
 
 // Reset
-/* Normalize is loaded, and then this */
+/* Normalize is loaded first, http://necolas.github.io/normalize.css
+   Followed by this CSS */
+   
 * {
   @include box-sizing(border-box);
 }
@@ -30,6 +32,7 @@ header {
 article {
   padding-top: 2em;
   padding-bottom: 2em;
+  @include clearfix;
 }
 footer {
   padding: 1em 5%;
