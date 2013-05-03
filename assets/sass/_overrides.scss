@@ -12,7 +12,7 @@
   line-height: 1.2em;  
 }
 .slide pre code {
-  line-height: 40px;
+  line-height: 42px;
 }
 .image-slide a.image-link {
   position: absolute;
@@ -27,15 +27,17 @@
 .principle {
   background: #FFAF26;
   h2 {
-    color: #333;
+    color: #000;
   }
 }
-
+pre {
+  font-size: 1.1em;
+}
 
 #Cover { 
 	h2 {
 		margin: 70px 0;
-		color: #1450ae;
+		color: #458414;
 		text-align:center;
 		font-size: 4em;
 		text-shadow: 1px 2px 6px rgba(0, 0, 0, 0.5);
@@ -51,7 +53,7 @@
 	}
 	a {
 		border-bottom: none;
-		color: #1450ae;
+		color: #458414;
 	}
 }
 
