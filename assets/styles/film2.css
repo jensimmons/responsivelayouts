@@ -1,15 +1,22 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/film2\.scss}line{font-family:\000039}}
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/film2\.scss}line{font-family:\0000312}}
 html {
   font-size: 16px;
 }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/film2\.scss}line{font-family:\0000315}}
 body {
   width: 90%;
   margin: 2em auto;
 }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jensimmons\/Sites\/responsivelayouts\/assets\/sass\/film2\.scss}line{font-family:\0000319}}
 img {
   width: 100%;
 }

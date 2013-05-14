@@ -277,7 +277,7 @@ a {
 		}
 	// Shout
 	&.shout {
-		background: #458414 url('../../pictures/artifactcircles.png') top center;
+		background: #458414;
 		h2 {
 			position:absolute;
 			top:50%;
@@ -295,7 +295,7 @@ a {
 		}
 	}
 	&.shout2 {
-		background: #458414 url('../../pictures/artifactcircles.png') top center;
+		background: #458414;
 		h2 {
 			position:absolute;
 			top:50%;
@@ -316,7 +316,6 @@ a {
 	// Main Points
 	&.mainpoints {  // added by Jen
 		background-image:none;
-//		background: #f9f3e0 url('../../pictures/artifactcirclessuperstrong.png') top center;
 		h2 {
 			position:absolute;
 			top:50%;
@@ -331,7 +330,7 @@ a {
 		}
 	// Demo Link
 	&.demolink {  // added by Jen
-		background: #781387 url('../../pictures/artifactcirclesstronger.png') top center;
+		background: #781387;
 		color: #C2EE57;
 		h2 {
 			position:absolute;
